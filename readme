@@ -1,0 +1,13 @@
+To use this python script, you will need pytube module installed.
+
+to install pytube
+pip3 install pytube
+
+once that is installed then you can run python3 yt.py, it will ask for a youtube video link, then it will show title of video
+then it will ask where you want to download video, you have to give the full path ie: "/Users/Username/Desktop/" or
+if you use OneDrive it would look like something like this: "/Users/Username/OneDrive/Desktop/"
+then it will download video and it is set to get the highest res of video.
+
+
+*ideas*
+Show a download progress bar
